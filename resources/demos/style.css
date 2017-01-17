@@ -1,0 +1,9 @@
+body {
+  font-family: "맑은 고딕", Arial, Helvetica, sans-serif;
+}
+table {
+  font-size: 1em;
+}
+.ui-draggable, .ui-droppable {
+  background-position: top;
+}
